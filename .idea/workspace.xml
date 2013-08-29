@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20a3777f-8ed2-4641-a198-2e250003db45" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_20040616.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ule/main/BaiduTieBaNDWS.java" afterPath="$PROJECT_DIR$/src/main/java/com/ule/main/BaiduTieBaNDWS.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/httpManager.iml" afterPath="$PROJECT_DIR$/httpManager.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="3a6c347a-e19a-4047-acb6-a0030b257de8" name="Rejected commit: Default" comment="" />
@@ -19,7 +13,7 @@
     <file path="/HtmlParse.java" changelist="20a3777f-8ed2-4641-a198-2e250003db45" time="1377763474785" ignored="false" />
     <file path="/fragment.java" changelist="20a3777f-8ed2-4641-a198-2e250003db45" time="1377763171712" ignored="false" />
     <file path="/BaiduMain.java" changelist="20a3777f-8ed2-4641-a198-2e250003db45" time="1377767822891" ignored="false" />
-    <file path="/Dummy.txt" changelist="20a3777f-8ed2-4641-a198-2e250003db45" time="1377771846093" ignored="false" />
+    <file path="/Dummy.txt" changelist="20a3777f-8ed2-4641-a198-2e250003db45" time="1377771883470" ignored="false" />
     <file path="/BaiduTieBaNDWS.java" changelist="20a3777f-8ed2-4641-a198-2e250003db45" time="1377771783838" ignored="false" />
     <file path="D:/Projects/postmall/account/trunk/accountEjb/src/main/java/com/tom/ule/account/trans/TransCenterImpl.java" changelist="20a3777f-8ed2-4641-a198-2e250003db45" time="1377771343637" ignored="false" />
     <file path="/TransCenterImpl.java" changelist="20a3777f-8ed2-4641-a198-2e250003db45" time="1377770892895" ignored="false" />
@@ -239,8 +233,10 @@
       <file leaf-file-name="BaiduTieBaNDWS.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ule/main/BaiduTieBaNDWS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="154" selection-end="154" vertical-scroll-proportion="0.2019802">
-              <folding />
+            <state line="23" column="27" selection-start="495" selection-end="495" vertical-scroll-proportion="0.7742574">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -763,6 +759,11 @@
       <created>1377743877726</created>
       <updated>1377743877726</updated>
     </task>
+    <task id="LOCAL-00001" summary="v1.0,not finished yet">
+      <created>1377771886517</created>
+      <updated>1377771886517</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -839,11 +840,11 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.0,not finished yet" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
     <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
     <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
@@ -853,6 +854,7 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="v1.0,not finished yet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -969,8 +971,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ule/main/BaiduTieBaNDWS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="154" selection-end="154" vertical-scroll-proportion="0.2019802">
-          <folding />
+        <state line="23" column="27" selection-start="495" selection-end="495" vertical-scroll-proportion="0.7742574">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
